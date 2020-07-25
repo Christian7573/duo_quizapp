@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.microsoft.device.dualscreen.layout7573.SurfaceDuoLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:single_screen_layout_id="@layout/activity_quiz_single"
+    app:dual_screen_start_layout_id="@layout/activity_quiz_first"
+    app:dual_screen_end_layout_id="@layout/activity_quiz_second">
+</com.microsoft.device.dualscreen.layout7573.SurfaceDuoLayout>
