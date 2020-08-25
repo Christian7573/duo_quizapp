@@ -11,10 +11,6 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Hello" />
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
     <com.google.android.material.appbar.AppBarLayout
@@ -25,9 +21,8 @@
         <Toolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:title="Ello"
             android:titleTextColor="@color/fluentui_white"
-            android:id="@+id/topbar"
+            android:id="@+id/quiz_topbar"
             >
 
         </Toolbar>

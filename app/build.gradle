@@ -54,6 +54,7 @@ dependencies {
     //implementation "com.microsoft.device:dualscreen-layout:1.0.0-alpha01"
     //implementation project(path: ":LayoutTest")
     //implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation "com.microsoft.device.dualscreen:layouts:1.0.0-alpha02"
     implementation 'com.microsoft.fluentui:FluentUIAndroid:0.0.4'
     compileOnly 'com.google.android.wearable:wearable:2.7.0'
 }
